@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # Streamlit Cloud では `st.secrets` を使い、ローカルでは `.env` を使用
 #try:
